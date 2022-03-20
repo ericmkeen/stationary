@@ -18,6 +18,7 @@ create_package('/Users/erickeen/repos/stationary')
 # Import packages
 if(FALSE){
   use_package('magrittr')
+  use_package('plyr')
   use_package('dplyr')
   use_package('readr')
   use_package('stringr')
@@ -29,6 +30,7 @@ if(FALSE){
   use_package('shinydashboard')
   use_package('shinythemes')
   use_package('rintrojs')
+  use_package('DataCombine')
   use_package('DT')
   use_package('wesanderson')
   use_package('bangarang')
