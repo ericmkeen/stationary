@@ -1,0 +1,19 @@
+Package: stationary
+Title: Data Entry App for Stationary Wildlife Surveys
+Version: 0.0.0.9000
+Authors@R: 
+    person("Eric", "Keen", , "ericmkeen@gmail.com", role = c("aut", "cre"))
+Description: Data entry app for stationary wildlife surveys
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    devtools,
+    DT,
+    lubridate,
+    rintrojs,
+    shiny,
+    shinydashboard,
+    shinythemes,
+    usethis
