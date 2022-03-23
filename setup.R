@@ -29,6 +29,7 @@ if(FALSE){
   use_package('shinyjs')
   use_package('shinydashboard')
   use_package('shinythemes')
+  use_package('shinyWidgets')
   use_package('rintrojs')
   use_package('DataCombine')
   use_package('DT')
@@ -39,6 +40,7 @@ if(FALSE){
   use_package('plotrix')
   use_package('sp')
   use_package('sf')
+  use_package('beepr')
 }
 
 #use_mit_license()
